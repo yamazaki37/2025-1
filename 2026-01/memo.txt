@@ -1,0 +1,19 @@
+https://docs.google.com/spreadsheets/d/1jV-UAWD2TOlu6BXs1ww_zUc007Iue0BZBlnQhCrqkg0/edit?gid=0#gid=0
+毎月16日に出題（全5回）					
+	2026年1月		見た目を整えよう		
+				※	締め切りは、2月16日（月）です。当日の16時までに提出してください。
+				※	ご自身のPC上に素材をコピーして試行錯誤していただいて丈夫です。
+				※	課題の提出方法は、各素材フォルダに「できた」と判断した場合、現状 index_test.html となっているファイルを index.html にリネームしてください。それをもって課題提出とします。
+					
+				素材：伊藤さん	（前略）/01Web案件/000_株式会社エスリアン/00_server/eslien-test.sakura.ne.jp/www/__web_team/_coding_skills/2026-01/itoh.hi
+				素材：山崎さん	（前略）\01Web案件\000_株式会社エスリアン\00_server\eslien-test.sakura.ne.jp\www\__web_team\_coding_skills\2026-01\yamazaki.r
+					
+				参考資料場所	（前略）__web_team/_coding_skills/2026-01/_reference/
+				参考資料(PDF)	PDF_2026-01.pdf　チャットワークに添付したPDFファイルをご覧ください。
+				参考資料(PNG)	s_2026-01-15.png.png　チャットワークに添付したPNG画像をご覧ください。
+					
+				※	今回は、HTML、CSSの両ファイルが修正の対象です。
+				※	参考資料(PDF)に記載してあるコメントどおりに、レイアウトを整えてください。
+				※	HTML、CSSの改変は自由です。見た目が参考資料と同様になるのであれば、全部書き換えてもOKです。
+				※	質問がありましたら、遠慮無く声をかけてください。
+				※	答えは、2月の課題を出すときに提示します。
